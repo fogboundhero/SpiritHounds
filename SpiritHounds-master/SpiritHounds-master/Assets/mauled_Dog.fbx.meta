@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: 52e5002cb88444346813c817f29743b7
+timeCreated: 1458197925
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: DeadDog_Back_Half___noUV:Mesh
+    100002: DeadDog_upper_Half___noUV:Mesh
+    100004: Dog_Mauled_v2:Group32709
+    100006: left1
+    100008: Low_Poly_Dog_Mesh:Mesh
+    100010: //RootNode
+    100012: mauled_dog_Back_Left_Foot_Con
+    100014: mauled_dog_Back_Left_Foot_Con1
+    100016: mauled_dog_Back_Left_Foot_Con2
+    100018: mauled_dog_Back_Right_Foot_Con
+    100020: mauled_dog_Base
+    100022: mauled_dog_Group10907
+    100024: mauled_dog_Group21810
+    100026: mauled_dog_Group38222
+    100028: mauled_dog_Group49127
+    100030: mauled_dog_Group60028
+    100032: mauled_dog_gut_01
+    100034: mauled_dog_gut_02
+    100036: mauled_dog_gut_02 1
+    100038: mauled_dog_gut_02 2
+    100040: mauled_dog_gut_03
+    100042: mauled_dog_gut_04
+    100044: mauled_dog_ikHandle1
+    100046: mauled_dog_ikHandle2
+    100048: mauled_dog_ikHandle3
+    100050: mauled_dog_ikHandle4
+    100052: mauled_dog_Jaw_01
+    100054: mauled_dog_Jaw_02
+    100056: mauled_dog_L_back_paw
+    100058: mauled_dog_L_back_toe
+    100060: mauled_dog_L_back_toe1
+    100062: mauled_dog_L_ball
+    100064: mauled_dog_L_clav
+    100066: mauled_dog_L_ear_01
+    100068: mauled_dog_L_ear_02
+    100070: mauled_dog_L_ear_03
+    100072: mauled_dog_L_eye
+    100074: mauled_dog_L_hip
+    100076: mauled_dog_L_lowerarm
+    100078: mauled_dog_L_lowerleg
+    100080: mauled_dog_L_paw
+    100082: mauled_dog_L_toe
+    100084: mauled_dog_L_upperarm
+    100086: mauled_dog_L_upperleg
+    100088: mauled_dog_Mauled_Dog
+    100090: mauled_dog_neck_01
+    100092: mauled_dog_neck_02
+    100094: mauled_dog_neck_03
+    100096: mauled_dog_nose_01
+    100098: mauled_dog_nose_02
+    100100: mauled_dog_pelvis
+    100102: mauled_dog_polySurface7
+    100104: mauled_dog_polySurface8
+    100106: mauled_dog_polySurface9
+    100108: mauled_dog_R_back_paw
+    100110: mauled_dog_R_back_toe
+    100112: mauled_dog_R_back_toe1
+    100114: mauled_dog_R_ball
+    100116: mauled_dog_R_clav
+    100118: mauled_dog_R_ear_01
+    100120: mauled_dog_R_ear_02
+    100122: mauled_dog_R_ear_03
+    100124: mauled_dog_R_eye
+    100126: mauled_dog_R_hip
+    100128: mauled_dog_R_lowerarm
+    100130: mauled_dog_R_lowerleg
+    100132: mauled_dog_R_paw
+    100134: mauled_dog_R_toe
+    100136: mauled_dog_R_upperarm
+    100138: mauled_dog_R_upperleg
+    100140: mauled_dog_root
+    100142: mauled_dog_spine_01
+    100144: mauled_dog_spine_02
+    100146: mauled_dog_spine_03
+    100148: mauled_dog_Starved_Dog
+    100150: mauled_dog_tail_01
+    100152: mauled_dog_tail_02
+    100154: mauled_dog_transform10
+    100156: mauled_dog_transform2
+    100158: mauled_dog_transform3
+    100160: mauled_dog_transform4
+    100162: mauled_dog_transform5
+    100164: mauled_dog_transform6
+    100166: mauled_dog_transform7
+    100168: mauled_dog_transform8
+    100170: mauled_dog_transform9
+    400000: DeadDog_Back_Half___noUV:Mesh
+    400002: DeadDog_upper_Half___noUV:Mesh
+    400004: Dog_Mauled_v2:Group32709
+    400006: left1
+    400008: Low_Poly_Dog_Mesh:Mesh
+    400010: //RootNode
+    400012: mauled_dog_Back_Left_Foot_Con
+    400014: mauled_dog_Back_Left_Foot_Con1
+    400016: mauled_dog_Back_Left_Foot_Con2
+    400018: mauled_dog_Back_Right_Foot_Con
+    400020: mauled_dog_Base
+    400022: mauled_dog_Group10907
+    400024: mauled_dog_Group21810
+    400026: mauled_dog_Group38222
+    400028: mauled_dog_Group49127
+    400030: mauled_dog_Group60028
+    400032: mauled_dog_gut_01
+    400034: mauled_dog_gut_02
+    400036: mauled_dog_gut_02 1
+    400038: mauled_dog_gut_02 2
+    400040: mauled_dog_gut_03
+    400042: mauled_dog_gut_04
+    400044: mauled_dog_ikHandle1
+    400046: mauled_dog_ikHandle2
+    400048: mauled_dog_ikHandle3
+    400050: mauled_dog_ikHandle4
+    400052: mauled_dog_Jaw_01
+    400054: mauled_dog_Jaw_02
+    400056: mauled_dog_L_back_paw
+    400058: mauled_dog_L_back_toe
+    400060: mauled_dog_L_back_toe1
+    400062: mauled_dog_L_ball
+    400064: mauled_dog_L_clav
+    400066: mauled_dog_L_ear_01
+    400068: mauled_dog_L_ear_02
+    400070: mauled_dog_L_ear_03
+    400072: mauled_dog_L_eye
+    400074: mauled_dog_L_hip
+    400076: mauled_dog_L_lowerarm
+    400078: mauled_dog_L_lowerleg
+    400080: mauled_dog_L_paw
+    400082: mauled_dog_L_toe
+    400084: mauled_dog_L_upperarm
+    400086: mauled_dog_L_upperleg
+    400088: mauled_dog_Mauled_Dog
+    400090: mauled_dog_neck_01
+    400092: mauled_dog_neck_02
+    400094: mauled_dog_neck_03
+    400096: mauled_dog_nose_01
+    400098: mauled_dog_nose_02
+    400100: mauled_dog_pelvis
+    400102: mauled_dog_polySurface7
+    400104: mauled_dog_polySurface8
+    400106: mauled_dog_polySurface9
+    400108: mauled_dog_R_back_paw
+    400110: mauled_dog_R_back_toe
+    400112: mauled_dog_R_back_toe1
+    400114: mauled_dog_R_ball
+    400116: mauled_dog_R_clav
+    400118: mauled_dog_R_ear_01
+    400120: mauled_dog_R_ear_02
+    400122: mauled_dog_R_ear_03
+    400124: mauled_dog_R_eye
+    400126: mauled_dog_R_hip
+    400128: mauled_dog_R_lowerarm
+    400130: mauled_dog_R_lowerleg
+    400132: mauled_dog_R_paw
+    400134: mauled_dog_R_toe
+    400136: mauled_dog_R_upperarm
+    400138: mauled_dog_R_upperleg
+    400140: mauled_dog_root
+    400142: mauled_dog_spine_01
+    400144: mauled_dog_spine_02
+    400146: mauled_dog_spine_03
+    400148: mauled_dog_Starved_Dog
+    400150: mauled_dog_tail_01
+    400152: mauled_dog_tail_02
+    400154: mauled_dog_transform10
+    400156: mauled_dog_transform2
+    400158: mauled_dog_transform3
+    400160: mauled_dog_transform4
+    400162: mauled_dog_transform5
+    400164: mauled_dog_transform6
+    400166: mauled_dog_transform7
+    400168: mauled_dog_transform8
+    400170: mauled_dog_transform9
+    2300000: DeadDog_Back_Half___noUV:Mesh
+    2300002: DeadDog_upper_Half___noUV:Mesh
+    2300004: mauled_dog_Starved_Dog
+    3300000: DeadDog_Back_Half___noUV:Mesh
+    3300002: DeadDog_upper_Half___noUV:Mesh
+    3300004: mauled_dog_Starved_Dog
+    4300000: DeadDog_Back_Half___noUV:Mesh
+    4300002: DeadDog_upper_Half___noUV:Mesh
+    4300004: mauled_dog_Mauled_Dog
+    4300006: mauled_dog_Starved_Dog
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: mauled_dog_Mauled_Dog
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DeadDog_Back_Half___noUV:Mesh
+        weight: 1
+      - path: DeadDog_upper_Half___noUV:Mesh
+        weight: 1
+      - path: Dog_Mauled_v2:Group32709
+        weight: 1
+      - path: Dog_Mauled_v2:Group32709/mauled_dog_polySurface7
+        weight: 1
+      - path: Dog_Mauled_v2:Group32709/mauled_dog_polySurface7/mauled_dog_transform10
+        weight: 1
+      - path: Dog_Mauled_v2:Group32709/mauled_dog_polySurface8
+        weight: 1
+      - path: Dog_Mauled_v2:Group32709/mauled_dog_polySurface8/mauled_dog_transform9
+        weight: 1
+      - path: Dog_Mauled_v2:Group32709/mauled_dog_polySurface9
+        weight: 1
+      - path: Dog_Mauled_v2:Group32709/mauled_dog_polySurface9/mauled_dog_transform8
+        weight: 1
+      - path: left1
+        weight: 1
+      - path: Low_Poly_Dog_Mesh:Mesh
+        weight: 1
+      - path: Low_Poly_Dog_Mesh:Mesh/mauled_dog_transform2
+        weight: 1
+      - path: mauled_dog_Back_Left_Foot_Con
+        weight: 1
+      - path: mauled_dog_Back_Left_Foot_Con1
+        weight: 1
+      - path: mauled_dog_Back_Left_Foot_Con2
+        weight: 1
+      - path: mauled_dog_Back_Right_Foot_Con
+        weight: 1
+      - path: mauled_dog_Group10907
+        weight: 1
+      - path: mauled_dog_Group10907/mauled_dog_transform7
+        weight: 1
+      - path: mauled_dog_Group21810
+        weight: 1
+      - path: mauled_dog_Group21810/mauled_dog_transform3
+        weight: 1
+      - path: mauled_dog_Group38222
+        weight: 1
+      - path: mauled_dog_Group38222/mauled_dog_transform5
+        weight: 1
+      - path: mauled_dog_Group49127
+        weight: 1
+      - path: mauled_dog_Group49127/mauled_dog_transform6
+        weight: 1
+      - path: mauled_dog_Group60028
+        weight: 1
+      - path: mauled_dog_Group60028/mauled_dog_transform4
+        weight: 1
+      - path: mauled_dog_ikHandle1
+        weight: 1
+      - path: mauled_dog_ikHandle2
+        weight: 1
+      - path: mauled_dog_ikHandle3
+        weight: 1
+      - path: mauled_dog_ikHandle4
+        weight: 1
+      - path: mauled_dog_Mauled_Dog
+        weight: 1
+      - path: mauled_dog_root
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_gut_01
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_gut_01/mauled_dog_gut_02
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_gut_03
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_gut_03/mauled_dog_gut_02
+          1
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_gut_04
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_gut_04/mauled_dog_gut_02
+          2
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_L_hip
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_L_hip/mauled_dog_L_upperleg
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_L_hip/mauled_dog_L_upperleg/mauled_dog_L_lowerleg
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_L_hip/mauled_dog_L_upperleg/mauled_dog_L_lowerleg/mauled_dog_L_back_paw
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_L_hip/mauled_dog_L_upperleg/mauled_dog_L_lowerleg/mauled_dog_L_back_paw/mauled_dog_L_back_toe
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_L_hip/mauled_dog_L_upperleg/mauled_dog_L_lowerleg/mauled_dog_L_back_paw/mauled_dog_L_back_toe/mauled_dog_L_back_toe1
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_R_hip
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_R_hip/mauled_dog_R_upperleg
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_R_hip/mauled_dog_R_upperleg/mauled_dog_R_lowerleg
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_R_hip/mauled_dog_R_upperleg/mauled_dog_R_lowerleg/mauled_dog_R_back_paw
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_R_hip/mauled_dog_R_upperleg/mauled_dog_R_lowerleg/mauled_dog_R_back_paw/mauled_dog_R_back_toe
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_R_hip/mauled_dog_R_upperleg/mauled_dog_R_lowerleg/mauled_dog_R_back_paw/mauled_dog_R_back_toe/mauled_dog_R_back_toe1
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_tail_01
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_pelvis/mauled_dog_tail_01/mauled_dog_tail_02
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_L_clav
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_L_clav/mauled_dog_L_upperarm
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_L_clav/mauled_dog_L_upperarm/mauled_dog_L_lowerarm
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_L_clav/mauled_dog_L_upperarm/mauled_dog_L_lowerarm/mauled_dog_L_paw
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_L_clav/mauled_dog_L_upperarm/mauled_dog_L_lowerarm/mauled_dog_L_paw/mauled_dog_L_ball
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_L_clav/mauled_dog_L_upperarm/mauled_dog_L_lowerarm/mauled_dog_L_paw/mauled_dog_L_ball/mauled_dog_L_toe
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_Jaw_01
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_Jaw_01/mauled_dog_Jaw_02
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_L_ear_01
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_L_ear_01/mauled_dog_L_ear_02
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_L_ear_01/mauled_dog_L_ear_02/mauled_dog_L_ear_03
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_L_eye
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_nose_01
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_nose_01/mauled_dog_nose_02
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_R_ear_01
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_R_ear_01/mauled_dog_R_ear_02
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_R_ear_01/mauled_dog_R_ear_02/mauled_dog_R_ear_03
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_neck_01/mauled_dog_neck_02/mauled_dog_neck_03/mauled_dog_R_eye
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_R_clav
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_R_clav/mauled_dog_R_upperarm
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_R_clav/mauled_dog_R_upperarm/mauled_dog_R_lowerarm
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_R_clav/mauled_dog_R_upperarm/mauled_dog_R_lowerarm/mauled_dog_R_paw
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_R_clav/mauled_dog_R_upperarm/mauled_dog_R_lowerarm/mauled_dog_R_paw/mauled_dog_R_ball
+        weight: 1
+      - path: mauled_dog_root/mauled_dog_Base/mauled_dog_spine_01/mauled_dog_spine_02/mauled_dog_spine_03/mauled_dog_R_clav/mauled_dog_R_upperarm/mauled_dog_R_lowerarm/mauled_dog_R_paw/mauled_dog_R_ball/mauled_dog_R_toe
+        weight: 1
+      - path: mauled_dog_Starved_Dog
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

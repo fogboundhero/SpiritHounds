@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 406efae90ed33ea4a8cec941caabfa3c
+timeCreated: 1457916579
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Animal_stables6
+    100002: group11
+    100004: group12
+    100006: group14
+    100008: group15
+    100010: group16
+    100012: Roof
+    100014: Roof1
+    100016: Roof2
+    100018: roof2ndFloor8
+    100020: Roof3
+    100022: Roof4
+    100024: //RootNode
+    100026: Underbeam20
+    100028: walls79
+    100030: walls80
+    100032: walls81
+    100034: walls82
+    400000: Animal_stables6
+    400002: group11
+    400004: group12
+    400006: group14
+    400008: group15
+    400010: group16
+    400012: Roof
+    400014: Roof1
+    400016: Roof2
+    400018: roof2ndFloor8
+    400020: Roof3
+    400022: Roof4
+    400024: //RootNode
+    400026: Underbeam20
+    400028: walls79
+    400030: walls80
+    400032: walls81
+    400034: walls82
+    2300000: Animal_stables6
+    2300002: Roof
+    2300004: Roof1
+    2300006: Roof2
+    2300008: roof2ndFloor8
+    2300010: Roof3
+    2300012: Roof4
+    2300014: Underbeam20
+    2300016: walls79
+    2300018: walls80
+    2300020: walls81
+    2300022: walls82
+    3300000: Animal_stables6
+    3300002: Roof
+    3300004: Roof1
+    3300006: Roof2
+    3300008: roof2ndFloor8
+    3300010: Roof3
+    3300012: Roof4
+    3300014: Underbeam20
+    3300016: walls79
+    3300018: walls80
+    3300020: walls81
+    3300022: walls82
+    4300000: walls79
+    4300002: walls80
+    4300004: walls81
+    4300006: walls82
+    4300008: roof2ndFloor8
+    4300010: Animal_stables6
+    4300012: Roof
+    4300014: Roof1
+    4300016: Roof3
+    4300018: Roof2
+    4300020: Roof4
+    4300022: Underbeam20
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

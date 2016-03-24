@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 1a37521779cc7354daf0abce2f3e2003
+timeCreated: 1457916578
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Floor_kitchen:polySurface1
+    100004: group107
+    100006: group11
+    100008: group12
+    100010: Hallway23
+    100012: Hallway29
+    100014: Hallway34
+    100016: Hallway35
+    100018: Hallway36
+    100020: Hallway37
+    100022: Hallway43
+    100024: Hallway46
+    100026: Roof_floor
+    100028: Roof_floor1_polySurface17
+    400000: //RootNode
+    400002: Floor_kitchen:polySurface1
+    400004: group107
+    400006: group11
+    400008: group12
+    400010: Hallway23
+    400012: Hallway29
+    400014: Hallway34
+    400016: Hallway35
+    400018: Hallway36
+    400020: Hallway37
+    400022: Hallway43
+    400024: Hallway46
+    400026: Roof_floor
+    400028: Roof_floor1_polySurface17
+    2300000: Floor_kitchen:polySurface1
+    2300002: Hallway23
+    2300004: Hallway29
+    2300006: Hallway34
+    2300008: Hallway35
+    2300010: Hallway36
+    2300012: Hallway37
+    2300014: Hallway43
+    2300016: Hallway46
+    2300018: Roof_floor
+    2300020: Roof_floor1_polySurface17
+    3300000: Floor_kitchen:polySurface1
+    3300002: Hallway23
+    3300004: Hallway29
+    3300006: Hallway34
+    3300008: Hallway35
+    3300010: Hallway36
+    3300012: Hallway37
+    3300014: Hallway43
+    3300016: Hallway46
+    3300018: Roof_floor
+    3300020: Roof_floor1_polySurface17
+    4300000: Hallway29
+    4300002: Hallway34
+    4300004: Hallway35
+    4300006: Hallway36
+    4300008: Hallway37
+    4300010: Hallway43
+    4300012: Hallway46
+    4300014: Floor_kitchen:polySurface1
+    4300016: Hallway23
+    4300018: Roof_floor1_polySurface17
+    4300020: Roof_floor
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
